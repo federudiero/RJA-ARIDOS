@@ -23,7 +23,7 @@ body{
 .header{
     height: 100vh;
     /* 02 */
-    background-image: linear-gradient(to top, rgba(251, 221, 194, 0.515) 0%, hsla(218, 68%, 79%, 0.247) 100%), url(/img/cantera2.jpg);
+    background-image: linear-gradient(to top, rgba(251, 221, 194, 0.515) 0%, hsla(218, 68%, 79%, 0.247) 100%), url(../img/cantera2.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
